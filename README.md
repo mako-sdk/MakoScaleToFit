@@ -30,7 +30,7 @@ QUARTO                  STATEMENT               TABLOID                 TABLOID_
 
 ## Description
 
-The code demonstrates two techniques that are useful when manipulating pages and content, for exammple when imposing or repurposing content:
+The code demonstrates two techniques that are useful when manipulating pages and content, for example when imposing or repurposing content:
 
 + Adjusting page sizes
 + Scaling content
