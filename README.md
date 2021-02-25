@@ -3,7 +3,8 @@
 Example code that demonstrates how to scale page content with the Mako SDK. Each PDF file in a specified folder is processed; each page in the document is scaled up or down to match the page size requested from the list.
 
 ```
-Usage: <source folder> [<page size>]   Where: Page size chosen from the list below. Default is US Letter (8.5in x 11in).
+Usage: <source folder> [<page size>]   Where: Page size chosen from the list below. 
+                                              Default is US Letter (8.5in x 11in).
 
 10X11                   10X14                   11X17                   12X11
 15X11                   9X11                    A2                      A3
